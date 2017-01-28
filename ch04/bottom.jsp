@@ -7,6 +7,5 @@
 <body>
 	<h2>bottom</h2>
 	<hr/>
-	<%=name%>
 </body>
 </html>

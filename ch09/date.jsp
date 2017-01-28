@@ -19,4 +19,4 @@ String strdate = simpleDate.format(date);
 Normal jsp page.<br>
 
 <%--error occur --%>
-Today is <mark><%=strdateee %></mark>
+Today is <mark><%=strdate %></mark>
