@@ -4,19 +4,16 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>scriptlet</title>
+<title></title>
 </head>
 <body>
-	<h2>scriptlet</h2>
+	<h2></h2>
 	<hr/>
 	<%
 	Timestamp now = new Timestamp(System.currentTimeMillis());
-	%>
-	<%=
-	now.getHours()
-	%>
-	<%=
-	now.getMinutes()
+	
+	//getHours();
+	//getMinutes();
 	%>
 </body>
 </html>

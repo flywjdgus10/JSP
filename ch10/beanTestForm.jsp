@@ -13,7 +13,7 @@
 	<form method="post" action="beanTestPro.jsp">
 	
     	<label for="usr">Name : </label>
-    	<input type="text" class="form-control" id="name"><br>
+    	<input type="text" class="form-control" name="name"><br>
     	
     	<input type="submit" value="submit">
 	</form>

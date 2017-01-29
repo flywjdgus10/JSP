@@ -7,6 +7,4 @@ String pageName = request.getParameter("pageName");
 <hr>
 <%=pageName %>
 <br>
-<b><%=name %><b></b>
-<hr>
-<hr>
+<%=name %>

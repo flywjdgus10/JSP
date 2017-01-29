@@ -5,7 +5,7 @@
 String pageName = request.getParameter("pageName");
 pageName += ".jsp";
 %>
-This is <b>includeTest.jsp<b>
+This is <b>includeTest.jsp</b>
 <br>
 <hr>
 <hr>
